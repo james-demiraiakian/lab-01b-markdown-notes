@@ -33,3 +33,9 @@ You can make a table in this manner:
 | 2A | 2B | 2C | 2D |
 | 3A | 3B | 3C | 3D |
 | 4A | 4B | 4C | 4D |
+
+You can bold text, like **this.**
+
+You can Italicise text like _this._
+
+I also learned, by accident, that you can italicize like *this.*
